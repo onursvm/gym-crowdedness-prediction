@@ -148,7 +148,7 @@ https://www.kaggle.com/datasets/nsrose7224/crowdedness-at-the-campus-gym
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gym-crowdedness-prediction.git
+git clone https://github.com/onursvm/gym-crowdedness-prediction.git
 ```
 
 Navigate to the project directory:
